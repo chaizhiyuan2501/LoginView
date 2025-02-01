@@ -26,8 +26,8 @@
 
 ### 1️⃣ **リポジトリをクローン**
 ```bash
-git clone https://github.com/chaizhiyuan2501/FormExam.git
-cd FormExam
+git clone https://github.com/chaizhiyuan2501/LoginView.git
+cd LoginView
 ```
 
 ### 2️⃣ **仮想環境の作成と有効化**
