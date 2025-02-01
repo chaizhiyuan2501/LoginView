@@ -7,7 +7,7 @@
 📚 [Python + Django5 Djangoを基礎から応用まで、アプリケーション開発マスターpython付き](https://www.udemy.com/share/103OHY3@5JdSpwpJtBk6FXDdLoQeB-D1g_nt31JH7eSso0Ld1otnAfjP6jSbJjPZHRQXrwCRsA==/)
 
 **学習ポイント**
-- **ログインとログアウトするためViewの実装**
+- **Class Based Viewでユーザー登録,ログイン,ログアウトの実装**
 - **oginRequiredMixinの実装(ログインしないと､実行できない処理)**
 - **LoginView,LogoutViewの利用**
 
